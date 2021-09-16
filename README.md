@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ReindeBoer
+- 👀 Interested in anything complicated
+- 💞️ I’m currently learning AI and Machine Learning
+- 🌱 I’m currently busy with a Webbased IDE
+- 📫 Reach me via rdeboer2004@gmail.com
