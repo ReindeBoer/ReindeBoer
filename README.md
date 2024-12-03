@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ReindeBoer
 - 👀 Interested in anything complicated
-- 💞️ I’m currently learning AI and Machine Learning
-- 🌱 I’m currently busy with a Webbased IDE
+- 💞️ I have experience in AI and Machine Learning
+- 🌱 I’m currently mastering the TALL-stack
+- 🐿️ Very experienced electronics and IOT things
+- 🛸 Very experienced in building and flying drones and FPV
 - 📫 Reach me via rdeboer2004@gmail.com
